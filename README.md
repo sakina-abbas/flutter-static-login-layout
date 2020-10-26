@@ -1,6 +1,14 @@
-# layouts
+# flutter-static-login-layout
 
-A new Flutter application.
+Flutter clone of a static Login screen.
+
+Concepts used:
+1. Applying background gradient to the entire screen
+2. NetworkImage for displaying an image from the internet
+3. CircleAvatar
+4. Text widgets with styling
+5. Custom round button
+6. Transparent Container using Opacity
 
 ## Getting Started
 
